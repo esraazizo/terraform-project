@@ -1,0 +1,4 @@
+public-inst-1 10.0.0.83  18.118.12.5
+public-inst-2 10.0.2.56  3.140.191.145
+private-inst-1 10.0.1.114
+private-inst-2 10.0.3.144
